@@ -1,0 +1,1 @@
+This is a N queens puzzle a the challenge of placing N non-attacking queens on an N×N chessboard. Where we write a program that solves the N queens problem.
